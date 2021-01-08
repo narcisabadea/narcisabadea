@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Narcisa's github stats](https://github-readme-stats.vercel.app/api?username=narcisabadea&show_icons=true&theme=radical)](https://github.com/narcisabadea/github-readme-stats)
+[![Narcisa's github stats](https://github-readme-stats.vercel.app/api?username=narcisabadea&show_icons=true&theme=radical)](https://github.com/narcisabadea/)
 
