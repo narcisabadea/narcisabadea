@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
 
 ### Let's chat
 
@@ -26,5 +25,8 @@ Here are some ideas to get you started:
 
 
 ### My GitHub Stats
+-->
+
+
 [![Narcisa's github stats](https://github-readme-stats.vercel.app/api?username=narcisabadea&show_icons=true&theme=radical)](https://github.com/narcisabadea/github-readme-stats)
 
