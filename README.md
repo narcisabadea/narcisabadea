@@ -28,5 +28,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Narcisa's github stats](https://github-readme-stats.vercel.app/api?username=narcisabadea&show_icons=true&theme=radical)](https://github.com/narcisabadea/)
+<!-- [![](https://github-readme-stats.vercel.app/api?username=narcisabadea&show_icons=true&theme=radical)](https://github.com/narcisabadea/) -->
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=narcisabadea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/narcisabadea/)
 
