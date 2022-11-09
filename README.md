@@ -9,7 +9,6 @@
 I'm a Frond-end Developer working in Bucharest, Romania.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/narcisabadea)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/narcisabadea11)
 
 ## Technologies
 
