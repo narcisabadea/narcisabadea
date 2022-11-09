@@ -1,33 +1,46 @@
+<div align="center">
+  
 ## Keep learning, keep growing 🌱 
+  
+</div>
 
-<!--
-**narcisabadea/narcisabadea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+I'm a Frond-end Developer working in Bucharest, Romania.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/narcisabadea)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/narcisabadea11)
 
+## Technologies
 
-### Let's chat
+  ![HTML](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+  ![Sass](https://img.shields.io/badge/-SASS-000?&logo=Sass)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=Storybook)
+  ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+  ![Vuetify](https://img.shields.io/badge/-Vuetify-000?&logo=Vuetify)
+  ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+  ![NPM](https://img.shields.io/badge/-NPM-000?&logo=Npm)
+  ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+  
+🌟 Currently learning
 
-<a href = "mailto:vasile.narcisa11@gmail.com">
-  <img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" width="auto" height="50px"> 
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+  ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 
-<a target="_blank" href="https://www.linkedin.com/in/narcisa-elena-badea-a3a55197/">
-  <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> 
+## 📊 Github Stats
 
+<a href='https://github.com/narcisabadea/'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narcisabadea&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narcisabadea&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</a>
+<br>
 
-### My GitHub Stats
--->
-
-
-<!-- [![](https://github-readme-stats.vercel.app/api?username=narcisabadea&show_icons=true&theme=radical)](https://github.com/narcisabadea/) -->
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=narcisabadea&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/narcisabadea/)
-
+## ⚡ Github Streaks
+<a href='https://github.com/narcisabadea/'>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=narcisabadea&hide_border=true&theme=dark" />
+</a>
+  
