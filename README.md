@@ -4,7 +4,11 @@
   
 </div>
 
-## Hi there 👋
+### Glad to see you here!
+<!-- &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=narcisabadea&style=flat-square&color=0088cc) 
+https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md
+-->
+
 
 I'm a Frond-end Developer working in Bucharest, Romania.
 
