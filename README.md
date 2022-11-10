@@ -27,6 +27,7 @@ I'm a Frond-end Developer working in Bucharest, Romania.
   ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
   ![NPM](https://img.shields.io/badge/-NPM-000?&logo=Npm)
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+  ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
   
 🌟 Currently learning
 
