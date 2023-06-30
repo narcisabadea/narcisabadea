@@ -29,6 +29,8 @@ I'm a Frond-end Developer working in Bucharest, Romania.
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
   ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
   ![TypeScript](https://img.shields.io/badge/-Typescript-000?&logo=TypeScript)
+  ![NodeJs](https://img.shields.io/badge/-NodeJs-000?&logo=nodedotjs)
+  ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
     
 🌟 Currently learning
 
